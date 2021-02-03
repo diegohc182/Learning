@@ -6,7 +6,3 @@ output: html_document
 ---
 ## Performance
 Chapter 1
-
-```{r}
-# mongoimport bla bla...
-```
